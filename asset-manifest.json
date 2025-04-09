@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prodotti-esenti-dazi/static/css/main.41588822.css",
+    "main.js": "/prodotti-esenti-dazi/static/js/main.78ba8e4a.js",
+    "static/js/453.ebead2c9.chunk.js": "/prodotti-esenti-dazi/static/js/453.ebead2c9.chunk.js",
+    "index.html": "/prodotti-esenti-dazi/index.html",
+    "main.41588822.css.map": "/prodotti-esenti-dazi/static/css/main.41588822.css.map",
+    "main.78ba8e4a.js.map": "/prodotti-esenti-dazi/static/js/main.78ba8e4a.js.map",
+    "453.ebead2c9.chunk.js.map": "/prodotti-esenti-dazi/static/js/453.ebead2c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41588822.css",
+    "static/js/main.78ba8e4a.js"
+  ]
+}
